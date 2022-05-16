@@ -25,20 +25,37 @@ Que tenga 4 o más tipos de comida en el plan todo incluido.
 Casos de prueba:
 
 3
+<br>
 2 1 50 3 3100
+<br>
 2 2 45 2 2850
+<br>
 3 3 30 4 3250
+<br>
+
 
 4
+<br>
 2 2 50 4 2900
+<br>
 3 2 30 4 3050
+<br>
 2 2 50 4 3350
+<br>
 2 2 55 3 3100
+<br>
+
 
 6
+<br>
 3 3 40 2 3450
+<br>
 1 1 25 4 2800
+<br>
 2 3 25 2 3000
+<br>
 3 1 25 2 2550
+<br>
 1 1 25 3 2500
+<br>
 3 3 40 3 3400
