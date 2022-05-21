@@ -1,5 +1,5 @@
 # Destino-Turistico
-Reto 3 Python Ciclo 1 MinTic - Desarrollo de un programa que valida la disponibilidad del un destino turistico segun los criterios ingresados..
+Reto 3 Python Ciclo 1 MinTic - Desarrollo de un programa que valida la disponibilidad de un destino turistico segun los criterios ingresados.
 
 Reto:
 
